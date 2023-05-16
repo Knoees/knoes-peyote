@@ -4,7 +4,7 @@ Preview: https://youtu.be/4GRq0lilbY0
 
 - Low Resmon 
 
-![image] (https://cdn.discordapp.com/attachments/1081604119241969724/1108025609323548772/image.png)
+! [image] (https://cdn.discordapp.com/attachments/1081604119241969724/1108025609323548772/image.png)
 
 - Setup
 
